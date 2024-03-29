@@ -184,8 +184,9 @@ main {
     padding-top: 16px;
 }
 
-.main-footer_item-social li,.main-social_links li{
- transition: all 0.5s ease;
+.main-footer_item-social li,
+.main-social_links li {
+    transition: all 0.5s ease;
 }
 
 
@@ -230,8 +231,8 @@ main {
 
 @media (max-width: 992px) {
 
-    main{
-        padding-top: 15px;
+    main {
+        padding-top: 20px;
     }
 
     .back-img {
@@ -310,13 +311,15 @@ main {
         height: 32px;
     }
 
-    .tg-btn{
+    .tg-btn {
         padding: 10px 16px;
     }
-    .tg-btn a span{
+
+    .tg-btn a span {
         font-size: 16px;
     }
-    .tg-btn a img{
+
+    .tg-btn a img {
         width: 32px;
     }
 }
