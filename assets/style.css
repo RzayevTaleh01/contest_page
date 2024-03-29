@@ -238,7 +238,7 @@ main {
         position: relative;
         bottom: 44px;
         overflow: hidden;
-        right: -16%;
+        right: -20%;
         width: 100%;
     }
 
@@ -255,7 +255,7 @@ main {
     .back-img img {
         position: relative;
         left: -5%;
-        width: 160%;
+        width: 135%;
     }
 
 
