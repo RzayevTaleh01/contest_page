@@ -254,8 +254,8 @@ main {
 
     .back-img img {
         position: relative;
-        left: -5%;
-        width: 135%;
+        left: 5%;
+        width: 130%;
     }
 
 
