@@ -49,6 +49,7 @@ main {
     display: flex;
     justify-content: center;
     gap: 40px;
+    padding-top: 12px;
 }
 
 .flex-start {
@@ -163,7 +164,7 @@ main {
 /* Main footer */
 
 .main-footer_item {
-    margin-bottom: 26px;
+    margin-bottom: 56px;
 }
 
 .main-footer_item-head {
